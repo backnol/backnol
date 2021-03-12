@@ -2,7 +2,7 @@
 - 👀 I’m interested in game, cars, rockets, technology
 - 🌱 I’m currently learning networking
 - 💞️ I’m looking to collaborate on helping with leadership
-- 📫 How to reach me backnol.com
+- 📫 Reach me backnol.com
 
 <!---
 backnol/backnol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
